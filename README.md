@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills<br>🌱 I’m currently learning Unreal, C++, game development<br>💬 Ask me about game development related technologies
+🔭 I’m currently improving on my skills<br>🌱 I’m currently working on Unreal, C++, game development<br>💬 Ask me about game development related technologies
 
 
 ## 🌐 Socials:
