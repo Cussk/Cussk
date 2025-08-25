@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Kyle Cuss from Newfoundland, Canada<br><br>- 🔭 I’m working as a game developer<br>- 📚 I'm currently learning C++, Unreal, GAS framework<br>- ⚡ In my free time I spend time with my family, create personal projects, and play video games</p>
+<p align="left">I'm Kyle Cuss from Newfoundland, Canada<br><br>- 🔭 I’m working as a game developer<br>- 📚 I'm currently improving my C++, Unreal, GAS framework skills<br>- ⚡ In my free time I spend time with my family, create personal projects, and play video games</p>
 
 ###
 
