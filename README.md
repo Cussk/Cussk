@@ -1,163 +1,165 @@
 # Kyle Cuss
 
-**Gameplay / Systems Engineer | Unreal Engine C++ | Unity C# | Multiplayer & Data-Driven Game Systems**
+**Gameplay / Systems Engineer | Unreal Engine C++ | Multiplayer Architecture | GAS | AI Systems | Unity C#**
 
-Hi, I’m Kyle. I’m a gameplay and systems-focused game developer who builds practical, scalable game systems with a strong focus on **Unreal Engine**, **C++**, **multiplayer architecture**, and **data-driven gameplay**.
+Hi, I’m Kyle. I’m a gameplay and systems engineer focused on building scalable game systems in **Unreal Engine**, with additional professional experience in **Unity**.
 
-My work is usually centered around the parts of games that need to be reliable, readable, expandable, and easy to debug: ability systems, combat frameworks, RTS-style command systems, AI behavior, progression, multiplayer gameplay flow, and gameplay architecture.
+My work centers on gameplay architecture, server-authoritative multiplayer, Gameplay Ability System (GAS), AI, combat, progression, and data-driven systems. I’m comfortable owning features from initial architecture through implementation, debugging, multiplayer integration, optimization, and delivery.
 
----
-
-## What I Work On
-
-- **Gameplay systems** that are clean, modular, and designer-friendly
-- **Multiplayer gameplay architecture** with server-authoritative logic, replication awareness, and clear ownership boundaries
-- **Ability and combat frameworks** inspired by GAS-style design, but built with practical project needs in mind
-- **RTS, RPG, MMO-lite, and tactics systems**
-- **AI systems** using behavior trees, state-driven logic, perception, scoring, and tactical decision making
-- **Performance-minded gameplay code** with minimal ticking, event-driven flow, and clean data/state separation
-- **Debugging and observability tools** for gameplay systems, replication, targeting, combat state, and runtime diagnostics
+I also regularly work inside existing projects, including Blueprint-to-C++ refactoring, legacy system modernization, and gameplay connected to external authoritative backends.
 
 ---
 
-## Core Skills
+## Core Focus
 
-### Game Programming
-- Gameplay architecture
-- Combat systems
-- Ability systems
-- Targeting systems
-- RTS controls and squad commands
-- AI behavior and decision systems
-- Player progression
-- Inventory and item definitions
-- UI-driven gameplay workflows
-- Data-driven gameplay authoring
+### Unreal Engine Gameplay
+
+- C++ gameplay systems and Blueprint integration
+- Gameplay Ability System (GAS)
+- Combat, abilities, attributes, Gameplay Effects, tags, costs, and cooldowns
+- GameMode / GameState / PlayerState architecture
+- Subsystems and actor components
+- Data Assets, DataTables, and Gameplay Tags
+- Enhanced Input and Common UI
+- Progression, objectives, rewards, and persistent player state
 
 ### Multiplayer & Networking
-- Server-authoritative gameplay
-- Unreal replication patterns
-- Listen server and dedicated server testing
-- Authority-safe ability activation
-- PlayerState, GameState, GameMode, Controller, and Pawn ownership models
-- External backend authority integration
-- Multiplayer debugging and validation flows
 
-### Architecture
-- Subsystem-first and component-first design where appropriate
-- Data assets, gameplay tags, and definition registries
+- Server-authoritative gameplay architecture
+- Listen and dedicated server development
+- Unreal replication and RPC workflows
+- Actor ownership, authority, and replicated state
+- Multiplayer GameMode / GameState / PlayerState design
+- Server-side validation of gameplay actions
+- External authoritative backend integration
+- Custom packet-based client/server gameplay flows
+- Multiplayer debugging and synchronization issues
+
+### AI & Combat
+
+- Behavior Trees
+- StateTree
+- AI Perception
+- Tactical targeting and scoring systems
+- Boss and encounter logic
+- Turret and autonomous combat systems
+- Event-driven AI/gameplay state
+- Performance-conscious combat architecture
+
+### Architecture & Performance
+
+- Modular gameplay frameworks
 - Clear ownership and state flow
-- Shallow inheritance when possible
-- Debug systems separated from gameplay logic
-- Performance-aware runtime systems
-- Scalable framework and plugin design
+- Component-driven and subsystem-driven design
+- Data-driven configuration
+- Event-driven systems with minimal Tick usage
+- Object pooling
+- Debugging and runtime observability
+- Existing-codebase refactoring and modernization
+
+---
+
+## Professional Work
+
+### Unreal Engine
+
+Recent work includes:
+
+- Multiplayer gameplay architecture for **Bedroom Brawl**, supporting PvP and PvE game modes across listen and dedicated servers
+- GAS-based combat and ability systems
+- Cooperative multiplayer Tower Defense systems with server-validated building, replicated gameplay state, per-player resources, AI waves, and pathing
+- AI systems using Behavior Trees, StateTree, AI Perception, Gameplay Tags, and custom targeting logic
+- An Unreal Engine MMO client rebuild communicating with an **external authoritative backend through custom packets**
+- Blueprint-to-C++ modernization of gameplay systems for an existing narrative RPG
+- Dialogue, interaction, progression, persistence, resource, and event-routing frameworks
+- Multiplayer and architecture debugging across existing production codebases
+
+### Unity
+
+Professional Unity work includes:
+
+- Gameplay systems in C#
+- Match-3 and diner-management gameplay
+- UI, progression, tutorials, and rewards
+- ScriptableObject-driven systems
+- Dependency injection
+- Addressables
+- Google Play Asset Delivery and On-Demand Resources
+- Mobile optimization
+- Android/iOS build and release workflows
+- Engine upgrades and package/plugin maintenance
 
 ---
 
 ## Languages & Engines
 
 ### Engines
+
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Verse](https://img.shields.io/badge/Verse-222222?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Tools & Tech
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+Additional tools and workflows include **Diversion, Azure DevOps, Jira, Trello, Agile development, profiling, debugging, and technical documentation**.
 
 ---
 
-## Areas I’m Strong In
+## Selected Technical Areas
 
-### Unreal Engine
+Some of the systems I’ve built or explored include:
 
-- C++ gameplay systems
-- Blueprints integration
-- Gameplay Ability System concepts
-- Common UI and Enhanced Input
-- Multiplayer replication
-- GameMode / GameState / PlayerState architecture
-- Components and subsystems
-- Data assets and gameplay tags
-- AI, behavior trees, state-driven gameplay, and debug tools
-- Plugin and framework-style architecture
-
-### Unity
-
-- C# gameplay systems
-- Mobile game development
-- ScriptableObject-driven data
-- Addressables
-- Play Asset Delivery
-- Scene and tutorial flow
-- UI implementation
-- Mobile optimization and build workflows
-
-### Web / Tools
-
-- TypeScript
-- React / Next.js
-- Tailwind CSS
-- Prisma
-- PostgreSQL
-- Internal tools, dashboards, and game-supporting web systems
-
----
-
-## Development Philosophy
-
-I like systems that are:
-
-- **Clear:** ownership, authority, and state flow should be easy to reason about
-- **Scalable:** systems should grow without turning into fragile inheritance chains
-- **Debuggable:** complex gameplay needs strong runtime visibility
-- **Data-driven:** content should be easy to author and tune without rewriting code
-- **Performance-aware:** avoid unnecessary ticks, allocations, replication spam, and hidden expensive behavior
-- **Practical:** architecture should serve the game, not the other way around
-
----
-
-## Example Project Areas
-
-Some of the types of systems I have built and explored:
-
-- Multiplayer ability framework prototypes
+- Gameplay Ability System frameworks
+- Multiplayer combat and ability systems
 - RTS tactical command systems
-- RPG combat and discipline systems
-- MMO-style authority adapters
-- Tower defense grid placement and wave systems
+- RPG progression and combat systems
+- MMO client/server authority adapters
+- Tower Defense placement, wave, resource, and objective systems
 - AI goal scoring and tactical behavior
+- Boss encounters and multi-phase AI
 - Data-driven progression systems
-- Debug overlays and gameplay diagnostics
-- Unity mobile systems with downloadable content pipelines
-- Browser-based strategy/RPG prototypes
+- Runtime debug tools and gameplay diagnostics
+- Unity mobile content delivery pipelines
+- Browser-based strategy and RPG prototypes
+
+---
+
+## Development Approach
+
+I prefer systems with:
+
+- **Clear ownership** — authority and state flow should be easy to reason about
+- **Modular architecture** — features should be reusable without creating unnecessary coupling
+- **Strong observability** — complex gameplay and networking systems need useful runtime debugging
+- **Data-driven configuration** — designers should be able to tune content without rewriting code
+- **Performance awareness** — avoid unnecessary Tick usage, replication traffic, allocations, and hidden runtime cost
+- **Practical engineering** — architecture should support the game, team, and production requirements
 
 ---
 
 ## Portfolio
 
-You can find more about my work here:
+Technical case studies and project breakdowns:
 
-**Portfolio:** [kylecuss.com](https://cussk.github.io/kylecuss.com/)
+**[kylecuss.com](https://cussk.github.io/kylecuss.com/)**
 
 ---
 
 ## Contact
 
-I’m open to remote game development work, especially Unreal Engine gameplay, systems, multiplayer, and prototype-to-production engineering.
+I’m open to remote game development work involving **Unreal Engine C++, gameplay systems, multiplayer architecture, GAS, AI, and existing-project modernization**.
 
-**Email:** cussprogramming@gmail.com  
-**LinkedIn:** [Kyle Cuss](https://www.linkedin.com/in/kyle-cuss/)  
 **Portfolio:** [kylecuss.com](https://cussk.github.io/kylecuss.com/)
-
----
-
-Thanks for visiting.
